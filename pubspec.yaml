@@ -30,6 +30,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_nav_bar: ^5.0.6
   sqflite: ^2.2.4+1
+  firebase_core: ^2.7.0
+  google_fonts: ^4.0.3
+  liquid_swipe: ^3.0.0
+  smooth_page_indicator: ^1.0.1
+  firebase_auth: ^4.2.2
+  cloud_firestore: ^4.4.3
+  google_sign_in: ^6.0.2
 
   
 

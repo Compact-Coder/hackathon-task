@@ -136,8 +136,8 @@ class _FoodPageBodyState extends State<FoodPageBody> {
                                 color: Colors.white38,
                                 image: const DecorationImage(
                                   fit: BoxFit.cover,
-                                  image: AssetImage(
-                                      "assets/image/chinesefood.jpg"),
+                                  image: NetworkImage(AppConstants.BASE_URL +
+                                      AppConstants.RECOMMENDED_PRODUCT_URI),
                                 ),
                               ),
                             ),
